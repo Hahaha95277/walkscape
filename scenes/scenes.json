@@ -1,1 +1,20 @@
-
+[
+  {
+    "id": "glacier_plateau",
+    "name": "冰川高原",
+    "description": "風聲呼嘯的高原上，白雪覆蓋著遠方的裂谷。",
+    "image": "/images/glacier_plateau.jpg"
+  },
+  {
+    "id": "desert_ruins",
+    "name": "沙漠遺跡",
+    "description": "被黃沙吞沒的古老石柱，訴說著過去文明的餘暉。",
+    "image": "/images/desert_ruins.jpg"
+  },
+  {
+    "id": "forest_monolith",
+    "name": "森林巨碑",
+    "description": "藤蔓纏繞的遺跡隱藏於深林，似乎正在低語。",
+    "image": "/images/forest_monolith.jpg"
+  }
+]
